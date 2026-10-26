@@ -1,3 +1,6 @@
 # Lab 5 Project
 Навчальний проєкт для лабораторної роботи з Git.
-Автор: Твоє Ім'я
+Автор: Anastasiia Redka
+
+## Запуск
+python3 main.py
