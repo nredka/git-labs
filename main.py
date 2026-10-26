@@ -6,3 +6,6 @@ if __name__ == "__main__":
 
 def farewell(name):
     return f"Goodbye, {name}!"
+
+def greet_all(names):
+    return [greet(name) for name in names]
